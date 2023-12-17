@@ -1,5 +1,3 @@
-# No Mutating Webhooks dot cloud
-
 A Polemic by a Tired Platform Engineer
 
 If the road to hell is paved with good intentions, the road to an unusable and unmaintainable Kubernetes platform is paved with mutating webhooks.
